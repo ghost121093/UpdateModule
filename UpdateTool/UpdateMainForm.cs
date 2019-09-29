@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace UpdateTool
 {
-    public partial class Form1 : Form
+    public partial class UpdateMainForm : Form
     {
-        public Form1()
+        public UpdateMainForm()
         {
             InitializeComponent();
         }

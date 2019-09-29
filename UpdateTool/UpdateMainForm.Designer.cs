@@ -1,6 +1,6 @@
 ﻿namespace UpdateTool
 {
-    partial class Form1
+    partial class UpdateMainForm
     {
         /// <summary>
         /// Обязательная переменная конструктора.
