@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Runned
 {
-    public partial class Form1 : Form
+    public partial class MainFormRunned : Form
     {
-        public Form1()
+        public MainFormRunned()
         {
             InitializeComponent();
         }
